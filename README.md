@@ -3,12 +3,15 @@ Text Adventure Game Development
 
 Tasked with designing a text-based adventure game. This game should utilizes the Python essentials including, but not limited to:
 
-Strings and String Manipulation
-User-Defined Functions and Variables
-User Input and Input Handling
-Conditional and Nested Conditional Statements (if/elif/else)
-Loops
-Controlling for Errors
+*Strings and String Manipulation
+
+*User-Defined Functions and Variables
+
+*User Input and Input Handling
+
+*Conditional and Nested Conditional Statements (if/elif/else)
+
+*Loops
  
 
 A working version of your game in the following format:
